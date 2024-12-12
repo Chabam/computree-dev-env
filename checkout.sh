@@ -1,4 +1,4 @@
-svn checkout http://rdinnovation.onf.fr/svn/computreev6/ computreev6
+svn checkout --force http://rdinnovation.onf.fr/svn/computreev6/ computreev6
 svn checkout http://rdinnovation.onf.fr/svn/plugin-onf/dev_v6/ pluginonf
 svn checkout http://rdinnovation.onf.fr/svn/plugin-mk/dev_v6/ pluginmk
 svn checkout http://rdinnovation.onf.fr/svn/plugin-toolkit/dev_v6/ plugintoolkit
