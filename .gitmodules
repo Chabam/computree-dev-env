@@ -1,27 +1,36 @@
 [submodule "computreev6"]
 	path = computreev6
 	url = git@github.com:Chabam/computree-mirror.git
+	branch = hotfixes
 [submodule "pluginonf"]
 	path = pluginonf
 	url = git@github.com:Chabam/computree-pluginonf-mirror.git
+	branch = master
 [submodule "pluginmk"]
 	path = pluginmk
 	url = git@github.com:Chabam/computree-pluginmk-mirror.git
+	branch = master
 [submodule "plugintoolkit"]
 	path = plugintoolkit
 	url = git@github.com:Chabam/computree-plugintoolkit-mirror.git
+	branch = master
 [submodule "pluginsegma"]
 	path = pluginsegma
 	url = git@github.com:Chabam/computree-pluginsegma-mirror.git
+	branch = master
 [submodule "plugingenerate"]
 	path = plugingenerate
 	url = git@github.com:Chabam/computree-plugingenerate-mirror.git
+	branch = master
 [submodule "pluginonfdev"]
 	path = pluginonfdev
 	url = git@github.com:Chabam/computree-pluginonfdev-mirror.git
+	branch = master
 [submodule "pluginignlif"]
 	path = pluginignlif
 	url = git@github.com:Chabam/computree-pluginignlif-mirror.git
+	branch = master
 [submodule "pluginlvox"]
 	path = pluginlvox
 	url = git@github.com:Chabam/computree-pluginlvox-mirror.git
+	branch = master
